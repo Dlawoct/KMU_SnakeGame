@@ -1,0 +1,16 @@
+#define MAX 21
+#define BLANK 0
+#define WALL 1
+#define IMMUNE_WALL 2
+#define HEAD 3
+#define BODY 4
+#define GROWTH 5
+#define POISON 6
+#define GATE 7
+#define SPEED 600//
+#define CREATE_ITEM_TIME 5000
+#define CREATE_GATE_TIME 20000
+#define LEFT_KEY 75
+#define RIGHT_KEY  77
+#define UP_KEY  72
+#define DOWN_KEY  80
